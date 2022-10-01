@@ -63,6 +63,8 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+  Read the server log of the request 
+  Changed the name of variable that was misspelled
 
 - Update the number of likes for a toy
 
